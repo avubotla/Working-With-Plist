@@ -1,3 +1,3 @@
-# Working With Plist uisng Objective C
+# Working With Plist in Objective C
 
 Save, Update, Read, and Delete Plist Data
